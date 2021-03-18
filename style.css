@@ -1,0 +1,69 @@
+body{
+    width: 300px;
+    height: 600px;
+    border: 2px solid black;
+    margin: auto;
+    font-family: tahoma;
+}
+#anh img{
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    margin: 10px 0 0 100px ;
+}
+#name{
+    color: seagreen;
+    font-size: 30px;
+    
+    margin-left: 60px;
+}
+#job{
+    color: grey;
+    font-size: 20px;
+    margin: 5px 0 0 110px;
+    margin-bottom: 30px;
+}
+#active{
+    font-size: 15px;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+#lorem{
+    color: gray;
+    font-size: 10px;
+    margin-left: 50px;
+}
+#div4 .special{
+    background-color: grey;
+    width: 100px;
+    height: 70px;
+    float: left;
+    
+    margin-top: 30px;
+    line-height: 90px;
+    
+   box-sizing: border-box;
+    
+    
+    
+}
+#div4 #div2{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+#div4 .special ul{
+    list-style: none;
+    
+}
+#div4 .special p{
+    font-size: 10px;
+    margin-bottom: 300px;
+    text-align: center;
+
+}
+#div4 #div1  img{
+    width: 10px;
+    height: 10px;
+    margin-top: -20px;
+
+}
